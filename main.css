@@ -1,0 +1,22 @@
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 6vw;
+}
+.c{
+ display: inline-block; 
+ margin: 5%;
+
+
+}
+button{
+ font-size: 6vw;
+}
+
+#a{
+ display: block;
+}
+#btn1 , #btn2{
+ width: 100px;
+}
